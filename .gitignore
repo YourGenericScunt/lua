@@ -1,0 +1,60 @@
+# Compiled Lua sources
+luac.out
+
+# luarocks build files
+*.src.rock
+*.zip
+*.tar.gz
+
+# Object files
+*.o
+*.os
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+/bin
+/derma
+/autorun
+/base_npcs
+/base_vehicles
+/developer_functions
+/game_hl2.lua
+/menubar.lua
+/drive
+/entities
+/includes
+/matproxy
+/menu
+/postprocess
+/skins
+/vgui
+/weapons
+/gamermode.lua
+/.vscode

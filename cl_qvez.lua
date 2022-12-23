@@ -38,6 +38,7 @@ DermaButton.DoClick = function ()
 
     net.Start("MessageName")
 	net.SendToServer()
+	frame:SetVisible(false)
 
 end
 local DermaButton = vgui.Create("DButton", frame)
@@ -50,9 +51,3 @@ DermaButton.DoClick = function ()
     frame:SetVisible(false)
 
 end
-
-net.Receive("MessageClient", function (len)
-
-	print("test server")
-	
-end)

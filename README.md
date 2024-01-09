@@ -1,5 +1,4 @@
 # lua
 
-Yeah, this is me, and also me trying to learn lua.
-Even though I SUCK at programing.
+Yeah, this is me, and this is my Gmod addons.
 So yeah, have fun cringing at my code.
